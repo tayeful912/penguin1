@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;700&display=swap');
+
+/* common css */
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.btnc{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);   
+    
+}
+
+button a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.img-bg{
+    
+    background: #F1F1F1;
+    border-radius: 20px;
+    width: 334px;
+height: 327px;
+
+}
+
+.img-m{
+
+    width: 202px;
+height: 269px;
+margin-top: 25px;
+margin-left: 70px;
+
+}
+
+.extra-bg{
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px 30px;
+    margin-top: 10px;
+    text-align: center;
+    
+}
+
+
+

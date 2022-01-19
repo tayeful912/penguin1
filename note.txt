@@ -1,0 +1,10 @@
+https://getbootstrap.com/docs/5.1/utilities/flex/#order
+
+https://getbootstrap.com/docs/5.1/layout/grid/
+https://getbootstrap.com/docs/5.1/utilities/borders/#sizes
+
+https://getbootstrap.com/docs/5.1/utilities/flex/#justify-content
+
+https://stackoverflow.com/questions/51115456/bootstrap-4-ordering-class
+
+https://stackoverflow.com/questions/37814508/order-columns-through-bootstrap4
